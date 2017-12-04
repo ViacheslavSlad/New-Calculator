@@ -1,0 +1,50 @@
+.button {
+width: 50px;
+height: 35px;
+background: transparent;
+text-align: center;
+border: 2px solid #226fbe;
+color: #226fbe;
+margin-top: 5px;
+
+}
+
+.button:hover {
+ border: 2px solid #226fbe;
+ background: #226fbe;
+ color: white;
+}
+ 
+ #input {
+border: none;
+border-bottom: 2px solid #226fbe;
+width:318px;
+color: #226fbe;
+font-size: 20px
+ }
+
+ #Enter {
+height: 115px;
+position: relative;
+left: 216px;
+top:-120px;
+padding:1px ;
+ }
+
+ #Clear {
+position: relative;
+left: 270px;
+top: -220px;
+height:75px;
+padding: 1px;
+ }
+
+#calck {
+border:3px solid #226fbe ;
+height: 245px;
+width: 346px;
+}
+form {
+	margin-right: 10px;
+	margin-left: 13px;
+}
